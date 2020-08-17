@@ -14,7 +14,7 @@ baseurl = "https://emiliofidalgo.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "Emilio Garcia-Fidalgo &copy; {year}"
 
 ############################
 ## Advanced options below ##
