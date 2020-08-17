@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emilio Garcia-Fidalgo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of the Balearic Islands
+  url: "http://www.uib.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Robotics
+- Computer Vision
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of the Balearic Islands
+    year: 2016
+  - course: MSc in Computer Science
+    institution: University of the Balearic Islands
+    year: 2011
+  - course: BSc in Computer Science
+    institution: University of the Balearic Islands
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:emilio.garcia@uib.es'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/emiliogfidalgo/?locale=en_US
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?hl=es&user=LobrsfEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/emiliofidalgo
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8057-5792
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Emilio_Garcia-Fidalgo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +71,12 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
+<div style="text-align: justify">
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the [University of the Balearic Islands](http://www.uib.es). My current [research]({{< ref "#skills" >}}) interests include mobile robotics, visual mapping, localization, SLAM, visual place recognition, machine learning and unmanned aerial vehicles (UAV's). My work has been [published]({{< ref "#publications" >}}) in international journals and conferences mainly in the fields of robotics and computer vision. At the UIB, I also [teach]({{< ref "#teaching" >}}) some undergraduate and master courses.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+</div>

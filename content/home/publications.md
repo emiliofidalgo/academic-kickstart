@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
@@ -65,8 +65,15 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
+  # ORIGINAL MESSAGE FROM ALERT NOTE! 
+  # {{% alert note %}}
+  # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+  # {{% /alert %}}
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+For a full list of my publications, please visit my [Google Scholar](http://bit.ly/2Pom6yM) profile.
