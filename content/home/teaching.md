@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-#### **Degree in Automation and Industrial Electronic Engineering**
-- 22437.[Industrial Vision](https://www.uib.eu/study/grau/industrial/GEEI-P/22437/index.html) (From 2013/14 to 2015/16)
-
 #### **Degree in Computer Science**
-- 21706.[Computer Structure I](https://www.uib.eu/study/grau/informatica/GIN2-P/21706/index.html) (From 2013/14)
+- 21706.[Computer Structure I](https://www.uib.eu/Learn/estudis-de-grau/grau/informatica/GIN2-P/21706/index.html) (From 2013/14)
 
 #### **Master's degree in Intelligent Systems**
-- 11762.[Content-based Image Retrieval](https://www.uib.eu/study/master/MUSI/11762/index.html) (From 2019/20)
+- 11762.[Content-based Image Retrieval](https://www.uib.eu/Learn/estudis-de-master/master/MUSI/11762/index.html) (From 2019/20)
+
+#### **Degree in Automation and Industrial Electronic Engineering**
+- 22437.[Industrial Vision](https://www.uib.eu/Learn/estudis-de-grau/grau/industrial/GEEI-P/22437/index.html) (From 2013/14 to 2015/16)
