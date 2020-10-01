@@ -75,5 +75,3 @@ subtitle = ""
   # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
   # {{% /alert %}}
 +++
-
-For a full list of my publications, please visit my [Google Scholar](http://bit.ly/2Pom6yM) profile.
